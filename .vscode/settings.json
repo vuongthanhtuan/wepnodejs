@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/584a802e-4a91-4bee-b338-6635ce2f9952/resourceGroups/tscloudshare/providers/Microsoft.Web/sites/webmyteam",
+    "appService.deploySubpath": "."
+}
